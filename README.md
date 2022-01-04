@@ -1,4 +1,4 @@
-# <img src="./resources/icon.png" /> Supreme Lamp
+# <img src="./resources/sun.png" width="64px" /> Supreme Lamp
 <img src="./resources/banner.jpg" />
 
 School project to predict solar erruptions.
